@@ -1,26 +1,33 @@
-# Hey, I'm CODE-7 👋
+ <p align="center">
+  <img src="avatar.gif" width="180" alt="CODE-7 Avatar" />
+</p>
 
-**Independent Developer | AI Enthusiast**
+<h1 align="center">Hey, I'm CODE-7 👋</h1>
 
-Building software that makes AI more personal, accessible, and private.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Independent+Developer;Creator+of+YUNA;Exploring+Local+AI" alt="Typing SVG" />
+</p>
 
-### 💜 Featured Project
+<p align="center">
+  Building AI software that puts privacy and personalization first.
+</p>
 
-**[YUNA — Your Local AI Companion](https://yunaai.online/)**
-
-A Windows AI companion featuring Live2D avatars, voice interaction, customizable personalities, and local AI support.
-
-### 🛠️ Tech Stack
-`Python` · `JavaScript` · `HTML` · `CSS` · `Git`
-
-### 🎯 Currently
-- 🚀 Improving YUNA
-- 🧠 Exploring local AI and AI assistants
-- 🛠️ Building useful software and developer tools
-
-### 🔗 Connect
-[Website](https://yunaai.online/) · [GitHub](https://github.com/Dril-V000) · [Discord](https://discord.gg/ARg6yujhdc) · [YouTube](https://www.youtube.com/@code7kjt)
+<p align="center">
+  <a href="https://yunaai.online/"><strong>💜 Discover YUNA</strong></a> ·
+  <a href="https://github.com/Dril-V000/yuna-AI">GitHub Project</a> ·
+  <a href="https://discord.gg/ARg6yujhdc">Discord</a>
+</p>
 
 ---
 
-<p align="center"><i>Building something meaningful, one project at a time.</i></p>
+### 🛠️ Tech Stack
+
+`Python` · `JavaScript` · `HTML` · `CSS` · `Git`
+
+### 🚀 Currently Building
+
+**[YUNA](https://yunaai.online/)** — A desktop AI companion featuring Live2D avatars, voice interaction, customizable personalities, and local AI support.
+
+<p align="center">
+  <i>Small beginnings. Ambitious ideas. 🚀</i>
+</p>
