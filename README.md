@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="avatar.gif" width="180" alt="CODE-7 Avatar" />
+  <img src="avatar.gif" width="400" alt="CODE-7 Avatar" />
 </p>
 
 <h1 align="center">Hey, I'm CODE-7 👋</h1>
